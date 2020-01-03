@@ -2,7 +2,7 @@
 https://storybook-example.netlify.com/
 -----
 
-#### 
+#### Steps to reproduce:
 - `$ cd storybook`
 - `$ npx create-react-app storybook`
 - `$ yarn build-storybook`
