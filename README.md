@@ -1,4 +1,4 @@
-## Storybook example
+## Storybook short example
 https://storybook-example.netlify.com/
 -----
 
