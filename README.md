@@ -5,4 +5,5 @@ https://storybook-example.netlify.com/
 #### 
 - `$ cd storybook`
 - `$ npx create-react-app storybook`
-- `$ npx -p @storybook/cli sb init --use-npm`
+- `$ yarn build-storybook`
+- [...](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/) 
