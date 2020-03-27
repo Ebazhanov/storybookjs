@@ -1,5 +1,5 @@
-## Storybook short example
-https://storybook-example.netlify.com/
+# Storybook example
+[https://storybook-example.netlify.com/](https://storybook-example.netlify.com/)
 -----
 
 #### Get started:
@@ -13,13 +13,12 @@ https://storybook-example.netlify.com/
 - `$ yarn test` Snapshot testing
 
 #### TODO
-- Composite component
-- Data
-- Screens
-- Testing
-- Addons
-- Creating addons
-- Deploy
-- Conclusion
-- Contribute
-
+- [ ] Composite component
+- [ ] Data
+- [ ] Screens
+- [ ] Testing
+- [ ] Addons
+- [ ] Creating addons
+- [ ] Deploy
+- [ ] Conclusion
+- [ ] Contribute
