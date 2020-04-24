@@ -1,7 +1,7 @@
 ## storybook for testing purpose
 [https://storybook-example.netlify.com](https://storybook-example.netlify.com)
 
-#### TODO add components
+#### TODO
 - [x] Task
 - [x] TaskList
 - [ ] Composite

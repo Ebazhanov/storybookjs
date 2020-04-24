@@ -1,7 +1,7 @@
 import React from 'react';
 
 import TaskList from './TaskList';
-import { taskData, actionsData } from '../Task/Task.stories';
+import { taskData, actionsData } from '../task/Task.stories';
 
 export default {
     component: TaskList,

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Task from '../Task/Task';
+import Task from '../task/Task';
 
 function TaskList({ loading, tasks, onPinTask, onArchiveTask }) {
     const events = {
